@@ -1,0 +1,35 @@
+.calc{
+    width: 500px;
+    height: 800px;
+    background: gray;
+    margin-left: 500px;
+    border-radius: 10px;
+
+}
+#screen{
+    width: 82%;
+    margin-left: 40px;
+    height: 40px;
+    margin-top: 10px;
+    pointer-events: none;
+    border-radius: 3px;
+}
+.btn{
+    width: 8px;
+    height: 8px;
+    margin-left: 32px;
+    padding: 8%;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.heading{
+    margin-left: 155px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-style: normal;
+    padding: 10px;
+    
+}
